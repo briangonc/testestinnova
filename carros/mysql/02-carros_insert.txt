@@ -1,0 +1,38 @@
+INSERT INTO carro (veiculo, marca, ano, descricao, vendido, created, updated) VALUES
+('Volkswagen Gol', 'Volkswagen', 2010, 'Gol 2010 Flex', 'SIM', '06/03/2024', '06/03/2024'),
+('Ford Fiesta', 'Ford', 2015, 'Fiesta 2015 Sedan', 'NÃO', '06/03/2024', '06/03/2024'),
+('Chevrolet Onix', 'Chevrolet', 2018, 'Onix 2018 Hatch', 'SIM', '06/03/2024', '06/03/2024'),
+('Toyota Corolla', 'Toyota', 2019, 'Corolla 2019 Automático', 'NÃO', '06/03/2024', '06/03/2024'),
+('Honda Civic', 'Honda', 2017, 'Civic 2017 Completo', 'SIM', '06/03/2024', '06/03/2024'),
+('Fiat Uno', 'Fiat', 2012, 'Uno 2012 Economy', 'NÃO', '06/03/2024', '06/03/2024'),
+('Hyundai HB20', 'Hyundai', 2020, 'HB20 2020 Hatch', 'SIM', '06/03/2024', '06/03/2024'),
+('Renault Sandero', 'Renault', 2016, 'Sandero 2016 Expression', 'NÃO', '06/03/2024', '06/03/2024'),
+('Nissan March', 'Nissan', 2014, 'March 2014 Básico', 'SIM', '06/03/2024', '06/03/2024'),
+('Kia Picanto', 'Kia', 2013, 'Picanto 2013 Completo', 'NÃO', '06/03/2024', '06/03/2024'),
+('Chevrolet Cruze', 'Chevrolet', 2022, 'Cruze 2022 Turbo', 'SIM', '06/03/2024', '06/03/2024'),
+('Ford Ranger', 'Ford', 2017, 'Ranger 2017 4x4 Diesel', 'NÃO', '06/03/2024', '06/03/2024'),
+('Fiat Toro', 'Fiat', 2021, 'Toro 2021 Volcano', 'SIM', '06/03/2024', '06/03/2024'),
+('Jeep Renegade', 'Jeep', 2019, 'Renegade 2019 Trailhawk', 'NÃO', '06/03/2024', '06/03/2024'),
+('Volkswagen Tiguan', 'Volkswagen', 2016, 'Tiguan 2016 TSI', 'SIM', '06/03/2024', '06/03/2024'),
+('Toyota Hilux', 'Toyota', 2018, 'Hilux 2018 Cabine Dupla', 'NÃO', '06/03/2024', '06/03/2024'),
+('Honda HR-V', 'Honda', 2020, 'HR-V 2020 EXL', 'SIM', '06/03/2024', '06/03/2024'),
+('Fiat Doblo', 'Fiat', 2014, 'Doblo 2014 7 Lugares', 'NÃO', '06/03/2024', '06/03/2024'),
+('Hyundai Creta', 'Hyundai', 2017, 'Creta 2017 Automático', 'SIM', '06/03/2024', '06/03/2024'),
+('Renault Kwid', 'Renault', 2019, 'Kwid 2019 Compacto', 'NÃO', '06/03/2024', '06/03/2024'),
+('Nissan Kicks', 'Nissan', 2021, 'Kicks 2021 SV', 'SIM', '06/03/2024', '06/03/2024'),
+('Kia Sportage', 'Kia', 2015, 'Sportage 2015 Top', 'NÃO', '06/03/2024', '06/03/2024'),
+('Chevrolet S10', 'Chevrolet', 2013, 'S10 2013 Cabine Simples', 'SIM', '06/03/2024', '06/03/2024'),
+('Ford Ecosport', 'Ford', 2016, 'Ecosport 2016 Freestyle', 'NÃO', '06/03/2024', '06/03/2024'),
+('Fiat 500', 'Fiat', 2014, '500 2014 Cult', 'SIM', '06/03/2024', '06/03/2024'),
+('Jeep Compass', 'Jeep', 2020, 'Compass 2020 Limited', 'NÃO', '06/03/2024', '06/03/2024'),
+('Volkswagen Saveiro', 'Volkswagen', 2015, 'Saveiro 2015 Cabine Simples', 'SIM', '06/03/2024', '06/03/2024'),
+('Toyota Etios', 'Toyota', 2013, 'Etios 2013 Hatch', 'NÃO', '06/03/2024', '06/03/2024'),
+('Honda Fit', 'Honda', 2018, 'Fit 2018 Completo', 'SIM', '06/03/2024', '06/03/2024');
+
+
+INSERT INTO carro (veiculo, marca, ano, descricao, vendido, created, updated) VALUES
+('Ford Focus', 'Ford', 2015, 'Focus 2015 Sedan', 'NÃO', '06/03/2024', '06/03/2024'),
+('Ford Fusion', 'Ford', 2015, 'Fusion 2015 Top', 'NÃO', '06/03/2024', '06/03/2024'),
+('Ford Fiesta', 'Ford', 2015, 'Fiesta 2015 Hatch', 'NÃO', '06/03/2024', '06/03/2024'),
+('Ford EcoSport', 'Ford', 2015, 'EcoSport 2015 Freestyle', 'NÃO', '06/03/2024', '06/03/2024'),
+('Ford Ka', 'Ford', 2015, 'Ka 2015 Básico', 'NÃO', '06/03/2024', '06/03/2024');
