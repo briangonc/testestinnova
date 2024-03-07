@@ -25,7 +25,7 @@ O projeto está estruturado da seguinte forma:
 ## Configuração do Projeto
 
 1. **Configuração do Banco de Dados:**
-    - Foi utilizado o banco de dados MySQL 8 em localhost:3306, o script DML está no diretório GitHub.
+    - Foi utilizado o banco de dados MySQL 8 em localhost:3306, o script DML está na pasta "mysql".
     - Configure as propriedades do banco de dados no arquivo `application.properties`.
 
 2. **Execução do Aplicativo:**
